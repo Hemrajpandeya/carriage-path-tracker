@@ -1,0 +1,26 @@
+# Media files — research footage stays local
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.MP4
+*.MOV
+*.AVI
+*.MKV
+*.jpg
+*.jpeg
+*.png
+
+# Output folder produced by the script
+tracked_videos/
+
+# Python build artefacts
+__pycache__/
+*.pyc
+*.pyo
+
+# Editor / OS noise
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
